@@ -1,0 +1,16 @@
+name = "TerminalMenus"
+uuid = "dc548174-15c3-5faf-af27-7997cfbde655"
+
+[compat]
+Compat = "3"
+julia = "1"
+
+[deps]
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
