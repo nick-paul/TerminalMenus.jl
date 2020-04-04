@@ -1,12 +1,3 @@
-# Ships with Julia now!
-
-This package [has been
-merged](https://github.com/nick-paul/TerminalMenus.jl/issues/14)
-into the Julia [standard
-library](https://docs.julialang.org/en/latest/stdlib/REPL/#TerminalMenus-1).
-As such, you probably just want to `using REPL.TerminalMenus` and skip the
-Installation instructions below.
-
 # TerminalMenus
 
 [![Build Status](https://travis-ci.org/nick-paul/TerminalMenus.jl.svg?branch=master)](https://travis-ci.org/nick-paul/TerminalMenus.jl) [![Build status](https://ci.appveyor.com/api/projects/status/weaqa64co5boj87g?svg=true)](https://ci.appveyor.com/project/nick-paul/terminalmenus-jl)
